@@ -46,7 +46,7 @@ Actualmente estoy ampliando mis habilidades en **Inteligencia Artificial Aplicad
 - **ChatGPT**  
 - **Ingeniería de prompts**  
 - **ADN IA – Fundamentos de IA generativa**  
-- 💡 *En progreso:* **LangChain, LangGraph, RAG, agentes de IA con Python**
+- **LangChain, LangGraph, RAG, agentes de IA con Python**
 
 ### **Herramientas**
 - **Git**, **GitHub**
